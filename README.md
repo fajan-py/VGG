@@ -55,8 +55,8 @@ Evaluation metrics include:
 
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/fajan-py/organmnist-vgg
-   cd organmnist-vgg
+   git clone https://github.com/fajan-py/VGG.git
+   cd VGG
    ```  
 
 2. **Install Dependencies**:  
